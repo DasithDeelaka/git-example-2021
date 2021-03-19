@@ -5,3 +5,4 @@ git-example-2021
 - Create and view branches
 - Do some changes
 - Create pull request
+- Code review
